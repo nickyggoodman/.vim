@@ -1,5 +1,5 @@
 # .vim
-Vim runcom -- run commands -- which includes syntax highlighting, lsp server warnings and error highlighting and suggestions, and autocomplete.
+A Vim configuration and customization directory.
 
 ## Installation
 Run `git clone https://github.com/nickyggoodman/.vim.git` in your home directory.
