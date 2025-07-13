@@ -1,4 +1,4 @@
-# vimrc
+# .vim
 Vim runcom -- run commands -- which includes syntax highlighting, lsp server warnings and error highlighting and suggestions, and autocomplete.
 
 ## Installation
