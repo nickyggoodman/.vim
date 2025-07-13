@@ -1,4 +1,5 @@
 # vimrc
+Vim runcom -- run commands -- which includes syntax highlighting, lsp server warnings and error highlighting and suggestions, and autocomplete.
 
 ## Vim start up commands
 - line numbers
@@ -6,7 +7,7 @@
 - tabstop, softtabstop, expandtab, shiftwidth, smart indent
 - lsp install (notification to install lsp if available for file type)
 
-## Vim plug-ins with git-plug (https://github.com/junegunn/vim-plug)
+## Vim plug-ins with vim-plug (https://github.com/junegunn/vim-plug)
 - ale
 - vim-lsp
 - vim-lsp-ale
