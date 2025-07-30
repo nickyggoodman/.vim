@@ -8,7 +8,7 @@ set background=dark
 colorscheme zenburned
 "colorscheme caffeine
 "let g:gruvbox_contrast_dark='hard'
-set bg=dark
+"set bg=dark
 "hi Normal guibg=NONE ctermbg=NONE
 set hlsearch
 set colorcolumn=80
